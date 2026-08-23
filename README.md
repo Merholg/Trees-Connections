@@ -8,3 +8,5 @@ Hello, dear friend. Join the project https://replit.com/refer/Merholg?trackingCo
 интерфейс веб-сервер: микрофреймворк Flask
 
 базаданных: MySQL
+
+Работа с базой данных через SQL (без ORM)
