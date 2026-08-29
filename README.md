@@ -10,3 +10,5 @@ Hello, dear friend. Join the project https://replit.com/refer/Merholg?trackingCo
 базаданных: MySQL
 
 Работа с базой данных через SQL (без ORM)
+
+схема базы данных: https://github.com/Merholg/Trees-Connections/blob/main/Trees-Connections-dbschema.dbs
